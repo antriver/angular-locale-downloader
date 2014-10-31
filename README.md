@@ -1,13 +1,12 @@
 angular-locale-downloader
 =========================
 
-PHP script to download all AngularJS i18n locale files for the version you want.
+PHP script to download all AngularJS i18n locale files for the version you want. Files are saved in i18n directory.
 
-Usage
-=====
+### Usage
 
 ```
-php download.php [version]
+php download.php [angular version]
 ```
 e.g.
 ```
